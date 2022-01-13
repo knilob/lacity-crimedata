@@ -1,6 +1,6 @@
 # LA City Crime Data API
 
-This is a test exercise to learn how Laravel Lumen works. There are only three routes for this API, and it is seeded with data from the (LA City crime data)[https://urldefense.com/v3/__https:/catalog.data.gov/dataset/crime-data-from-2020-to-present__;!!AQdq3sQhfUj4q8uUguY!0EosraXcj32Tb5ulRsEii5LuA0rmhy_KyWjPOtJ4l1_PKwNobzxwDwBDSTDhQTok80M$] from 2020 to the present.
+This is a test exercise to learn how Laravel Lumen works. There are only three routes for this API, and it is seeded with data from the [LA City crime data](https://catalog.data.gov/dataset/crime-data-from-2020-to-present) from 2020 to the present.
 
 Built with Laravel Lumen.
 
